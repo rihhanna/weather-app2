@@ -7,6 +7,7 @@ A beautiful and responsive weather application built with **React** and **Tailwi
 
 ## 📸 Screenshots
 ![Weather App Screenshot](public/screenshots/weather-app-screenshot.png)
+![Weather App Screenshot](public/screenshots/London-Test.png)
 
 
 ## ✨ Features
