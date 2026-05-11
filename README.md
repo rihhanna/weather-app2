@@ -3,7 +3,7 @@
 A beautiful and responsive weather application built with **React** and **Tailwind CSS**, powered by the **OpenWeatherMap API**.
 
 ## 🚀 Live Demo
-> Coming soon...
+https://weather-app2-gilt.vercel.app/
 
 ## 📸 Screenshots
 
