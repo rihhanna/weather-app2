@@ -1,4 +1,4 @@
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/c05ac52e-af1d-40d1-9ea1-2280d2a1323c" /># 🌤️ Weather App
+# 🌤️ Weather App
 
 A beautiful and responsive weather application built with **React** and **Tailwind CSS**, powered by the **OpenWeatherMap API**.
 
@@ -6,9 +6,8 @@ A beautiful and responsive weather application built with **React** and **Tailwi
 > Coming soon...
 
 ## 📸 Screenshots
-![Weather App Screenshot](public/screenshots/weather-app-screenshot.png)
-![Weather App Screenshot](public/screenshots/London-Test.png)
 
+![Weather App Home](https://github.com/user-attachments/assets/c05ac52e-af1d-40d1-9ea1-2280d2a1323c)
 
 ## ✨ Features
 
@@ -32,7 +31,7 @@ A beautiful and responsive weather application built with **React** and **Tailwi
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/YOURUSERNAME/weather-app.git
+git clone https://github.com/rihhanna/weather-app.git
 cd weather-app
 ```
 
@@ -42,12 +41,12 @@ npm install
 ```
 
 3. **Get your API key**
-- Sign up at [openweathermap.org](https://openweathermap.org)
-- Get your free API key
+   - Sign up at [openweathermap.org](https://openweathermap.org)
+   - Get your free API key
 
 4. **Add your API key**
-- Open `src/App.js`
-- Replace `API_KEY` with your key
+   - Open `src/App.js`
+   - Replace `API_KEY` with your key
 
 5. **Run the app**
 ```bash
@@ -94,7 +93,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Rehana Hassan**
-- GitHub: [rihhanna](https://github.com/rihhanna)
+- GitHub: [@rihhanna](https://github.com/rihhanna)
 
 ---
 ⭐ If you like this project, give it a star on GitHub!
